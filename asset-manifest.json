@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notesapp/static/css/main.e7aebf6e.css",
+    "main.js": "/Notesapp/static/js/main.b728f13f.js",
+    "static/media/plus.png": "/Notesapp/static/media/plus.f5d4d283910a71769470.png",
+    "static/media/delete.svg": "/Notesapp/static/media/delete.c184eb9e41969d49b9cae112eb516337.svg",
+    "index.html": "/Notesapp/index.html",
+    "main.e7aebf6e.css.map": "/Notesapp/static/css/main.e7aebf6e.css.map",
+    "main.b728f13f.js.map": "/Notesapp/static/js/main.b728f13f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7aebf6e.css",
+    "static/js/main.b728f13f.js"
+  ]
+}
